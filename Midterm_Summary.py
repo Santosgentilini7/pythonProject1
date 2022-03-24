@@ -112,7 +112,7 @@ fp.close()
 #There are only 3 lines
 
 
-# ONce the file is open we use write().
+# Once the file is open we use write().
 fp = open("text.txt", "a")
 print(fp)
 line = input("Give me some text, don't be shy: ")
